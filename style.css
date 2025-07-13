@@ -8,9 +8,10 @@ body {
 }
 
 header {
-  background: #222;
+  background: url('taste-header.jpg') no-repeat center center;
+  background-size: cover;
   color: #fff;
-  padding: 2rem;
+  padding: 4rem 2rem;
   text-align: center;
 }
 
