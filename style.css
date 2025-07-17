@@ -8,10 +8,15 @@ body {
 }
 
 header {
-  background-color: #222;
-  color: #fff;
-  padding: 4rem 2rem;
-  text-align: center;
+  background-image: url('images/background-pic.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7); /* better contrast */
 }
 
 main {
