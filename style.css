@@ -21,8 +21,8 @@ header {
 }
 
 .header-text {
-  color: white;
-  text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.8);
+  color: #f5e9b8;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
   padding: 10px 20px;
   line-height: 1.5;
   display: flex;
@@ -47,9 +47,9 @@ header h1 {
 }
 
 .subtitle {
-  margin: 2px 0;
-  font-size: 1.1rem;
-  color: white;
+  color: #f5e9b8;
+  font-weight: 400;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.6);
 }
 
 main {
